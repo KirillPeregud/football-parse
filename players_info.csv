@@ -1,0 +1,737 @@
+country;number;first_name;last_name;position
+Argentina;1;GUZMAN;Nahuel;Goalkeeper
+Argentina;2;Gabriel;MERCADO;Defender
+Argentina;3;Nicolas;TAGLIAFICO;Defender
+Argentina;4;Cristian;ANSALDI;Defender
+Argentina;5;Lucas;BIGLIA;Midfield
+Argentina;6;Federico;FAZIO;Defender
+Argentina;7;Ever;BANEGA;Midfield
+Argentina;8;Marcos;ACUNA;Defender
+Argentina;9;Gonzalo;HIGUAIN;Forward
+Argentina;10;Lionel;MESSI;Forward
+Argentina;11;Angel;DI MARIA;Midfield
+Argentina;12;Franco;ARMANI;Goalkeeper
+Argentina;13;Maximiliano;MEZA;Midfield
+Argentina;14;Javier;MASCHERANO;Defender
+Argentina;15;Enzo;PEREZ;Midfield
+Argentina;16;Marcos;ROJO;Defender
+Argentina;17;Nicolas;OTAMENDI;Defender
+Argentina;18;Eduardo;SALVIO;Defender
+Argentina;19;Sergio;AGUERO;Forward
+Argentina;20;Giovani;LO CELSO;Midfield
+Argentina;21;Paulo;DYBALA;Forward
+Argentina;22;Cristian;PAVON;Midfield
+Argentina;23;Wilfredo;CABALLERO;Goalkeeper
+Australia;1;Mathew;RYAN;Goalkeeper
+Australia;2;Milos;DEGENEK;Defender
+Australia;3;James;MEREDITH;Defender
+Australia;4;Tim;CAHILL;Forward
+Australia;5;Mark;MILLIGAN;Defender
+Australia;6;Matthew;JURMAN;Defender
+Australia;7;Mathew;LECKIE;Forward
+Australia;8;Massimo;LUONGO;Midfield
+Australia;9;Tomi;JURIC;Forward
+Australia;10;Robbie;KRUSE;Forward
+Australia;11;Andrew;NABBOUT;Forward
+Australia;12;Brad;JONES;Goalkeeper
+Australia;13;Aaron;MOOY;Midfield
+Australia;14;Jamie;MacLAREN;Forward
+Australia;15;Mile;JEDINAK;Midfield
+Australia;16;Aziz;BEHICH;Defender
+Australia;17;Daniel;ARZANI;Forward
+Australia;18;Danny;VUKOVIC;Goalkeeper
+Australia;19;Joshua;RISDON;Defender
+Australia;20;Trent;SAINSBURY;Defender
+Australia;21;Dimitrios;PETRATOS;Forward
+Australia;22;Jackson;IRVINE;Midfield
+Australia;23;Tom;ROGIC;Midfield
+Belgium;1;Thibaut;COURTOIS;Goalkeeper
+Belgium;2;Toby;ALDERWEIRELD;Defender
+Belgium;3;Thomas;VERMAELEN;Defender
+Belgium;4;Vincent;KOMPANY;Defender
+Belgium;5;Jan;VERTONGHEN;Defender
+Belgium;6;Axel;WITSEL;Midfield
+Belgium;7;Kevin;DE BRUYNE;Midfield
+Belgium;8;Marouane;FELLAINI;Midfield
+Belgium;9;Romelu;LUKAKU;Forward
+Belgium;10;Eden;HAZARD;Forward
+Belgium;11;Yannick;CARRASCO;Midfield
+Belgium;12;Simon;MIGNOLET;Goalkeeper
+Belgium;13;Koen;CASTEELS;Goalkeeper
+Belgium;14;Dries;MERTENS;Forward
+Belgium;15;Thomas;MEUNIER;Defender
+Belgium;16;Thorgan;HAZARD;Midfield
+Belgium;17;Youri;TIELEMANS;Midfield
+Belgium;18;Adnan;JANUZAJ;Forward
+Belgium;19;Moussa;DEMBELE;Midfield
+Belgium;20;Dedryck;BOYATA;Defender
+Belgium;21;Michy;BATSHUAYI;Forward
+Belgium;22;Nacer;CHADLI;Midfield
+Belgium;23;Leander;DENDONCKER;Defender
+Brazil;1;-;ALISSON;Goalkeeper
+Brazil;2;THIAGO;SILVA;Defender
+Brazil;3;-;MIRANDA;Defender
+Brazil;4;PEDRO;GEROMEL;Defender
+Brazil;5;-;CASEMIRO;Midfield
+Brazil;6;FILIPE;LUIS;Defender
+Brazil;7;DOUGLAS;COSTA;Forward
+Brazil;8;RENATO;AUGUSTO;Midfield
+Brazil;9;GABRIEL;JESUS;Forward
+Brazil;10;-;NEYMAR;Forward
+Brazil;11;PHILIPPE;COUTINHO;Midfield
+Brazil;12;-;MARCELO;Defender
+Brazil;13;-;MARQUINHOS;Defender
+Brazil;14;-;DANILO;Defender
+Brazil;15;-;PAULINHO;Midfield
+Brazil;16;-;CASSIO;Goalkeeper
+Brazil;17;-;FERNANDINHO;Midfield
+Brazil;18;-;FRED;Midfield
+Brazil;19;-;WILLIAN;Midfield
+Brazil;20;ROBERTO;FIRMINO;Forward
+Brazil;21;-;TAISON;Forward
+Brazil;22;-;FAGNER;Defender
+Brazil;23;-;EDERSON;Goalkeeper
+Colombia;1;David;OSPINA;Goalkeeper
+Colombia;2;Cristian;ZAPATA;Defender
+Colombia;3;Oscar;MURILLO;Defender
+Colombia;4;Santiago;ARIAS;Defender
+Colombia;5;Wilmar;BARRIOS;Midfield
+Colombia;6;Carlos;SANCHEZ;Midfield
+Colombia;7;Carlos;BACCA;Forward
+Colombia;8;Abel;AGUILAR;Midfield
+Colombia;9;Radamel;FALCAO;Forward
+Colombia;10;James;RODRIGUEZ;Midfield
+Colombia;11;Juan;CUADRADO;Midfield
+Colombia;12;Camilo;VARGAS;Goalkeeper
+Colombia;13;Yerry;MINA;Defender
+Colombia;14;Luis;MURIEL;Forward
+Colombia;15;Mateus;URIBE;Midfield
+Colombia;16;Jefferson; LERMA;Midfield
+Colombia;17;Johan;MOJICA;Defender
+Colombia;18;Farid;DIAZ;Defender
+Colombia;19;Miguel;BORJA;Forward
+Colombia;20;Juan;QUINTERO;Midfield
+Colombia;21;Jose;IZQUIERDO;Forward
+Colombia;22;Jose;CUADRADO;Goalkeeper
+Colombia;23;Davinson;SANCHEZ;Defender
+Costa Rica;1;Keylor;NAVAS;Goalkeeper
+Costa Rica;2;Johnny;ACOSTA;Defender
+Costa Rica;3;Giancarlo;GONZALEZ;Defender
+Costa Rica;4;Ian;SMITH;Defender
+Costa Rica;5;Celso;BORGES;Midfield
+Costa Rica;6;Oscar;DUARTE;Defender
+Costa Rica;7;Christian;BOLANOS;Midfield
+Costa Rica;8;Bryan;OVIEDO;Defender
+Costa Rica;9;Daniel;COLINDRES;Midfield
+Costa Rica;10;Bryan;RUIZ;Midfield
+Costa Rica;11;Johan;VENEGAS;Forward
+Costa Rica;12;Joel;CAMPBELL;Forward
+Costa Rica;13;Rodney;WALLACE;Midfield
+Costa Rica;14;Randall;AZOFEIFA;Midfield
+Costa Rica;15;Francisco;CALVO;Defender
+Costa Rica;16;Cristian;GAMBOA;Defender
+Costa Rica;17;Yeltsin;TEJEDA;Midfield
+Costa Rica;18;Patrick;PEMBERTON;Goalkeeper
+Costa Rica;19;Kendall;WASTON;Defender
+Costa Rica;20;David;GUZMAN;Midfield
+Costa Rica;21;Marcos;URENA;Forward
+Costa Rica;22;Kenner;GUTIERREZ;Defender
+Costa Rica;23;Leonel;MOREIRA;Goalkeeper
+Croatia;1;Dominik;LIVAKOVIC;Goalkeeper
+Croatia;2;Sime;VRSALJKO;Defender
+Croatia;3;Ivan;STRINIC;Defender
+Croatia;4;Ivan;PERISIC;Forward
+Croatia;5;Vedran;CORLUKA;Defender
+Croatia;6;Dejan;LOVREN;Defender
+Croatia;7;Ivan;RAKITIC;Midfield
+Croatia;8;Mateo;KOVACIC;Midfield
+Croatia;9;Andrej;KRAMARIC;Forward
+Croatia;10;Luka;MODRIC;Midfield
+Croatia;11;Marcelo;BROZOVIC;Midfield
+Croatia;12;Lovre;KALINIC;Goalkeeper
+Croatia;13;Tin;JEDVAJ;Defender
+Croatia;14;Filip;BRADARIC;Midfield
+Croatia;15;Duje;CALETA-CAR;Defender
+Croatia;16;Nikola;KALINIC;Forward
+Croatia;17;Mario;MANDZUKIC;Forward
+Croatia;18;Ante;REBIC;Forward
+Croatia;19;Milan;BADELJ;Midfield
+Croatia;20;Marko;PJACA;Forward
+Croatia;21;Domagoj;VIDA;Defender
+Croatia;22;Josip;PIVARIC;Defender
+Croatia;23;Danijel;SUBASIC;Goalkeeper
+Denmark;1;Kasper; SCHMEICHEL;Goalkeeper
+Denmark;2;Michael;KROHN-DEHLI;Midfield
+Denmark;3;Jannik;VESTERGAARD;Defender
+Denmark;4;Simon;KJAER;Defender
+Denmark;5;Jonas;KNUDSEN;Defender
+Denmark;6;Andreas;CHRISTENSEN;Defender
+Denmark;7;William;KVIST;Midfield
+Denmark;8;Thomas;DELANEY;Midfield
+Denmark;9;Nicolai;JORGENSEN;Forward
+Denmark;10;Christian;ERIKSEN;Midfield
+Denmark;11;Martin;BRAITHWAITE;Forward
+Denmark;12;Kasper;DOLBERG;Forward
+Denmark;13;Mathias; JORGENSEN;Defender
+Denmark;14;Henrik;DALSGAARD;Defender
+Denmark;15;Viktor;FISCHER;Forward
+Denmark;16;Jonas;LOSSL;Goalkeeper
+Denmark;17;Jens;Stryger LARSEN;Defender
+Denmark;18;Lukas;LERAGER;Midfield
+Denmark;19;Lasse;SCHONE;Midfield
+Denmark;20;Yussuf;Yurary POULSEN;Forward
+Denmark;21;Andreas;CORNELIUS;Forward
+Denmark;22;Frederik;RONNOW;Goalkeeper
+Denmark;23;Pione;SISTO;Forward
+Egypt;1;ESSAM;ELHADARY;Goalkeeper
+Egypt;2;ALI;GABR;Defender
+Egypt;3;AHMED;ELMOHAMADY;Defender
+Egypt;4;OMAR;GABER;Midfield
+Egypt;5;SAM;MORSY;Midfield
+Egypt;6;AHMED;HEGAZY;Defender
+Egypt;7;AHMED;FATHI;Defender
+Egypt;8;TAREK;HAMED;Midfield
+Egypt;9;MARWAN;MOHSEN;Forward
+Egypt;10;MOHAMED;SALAH;Forward
+Egypt;11;-;KAHRABA;Forward
+Egypt;12;AYMAN;ASHRAF;Defender
+Egypt;13;MOHAMED;ABDELSHAFY;Defender
+Egypt;14;RAMADAN;SOBHY;Forward
+Egypt;15;MAHMOUD;HAMDY;Defender
+Egypt;16;SHERIF;EKRAMY;Goalkeeper
+Egypt;17;MOHAMED;ELNENY;Midfield
+Egypt;18;-;SHIKABALA;Forward
+Egypt;19;ABDALLA;SAID;Midfield
+Egypt;20;SAAD;SAMIR ;Defender
+Egypt;21;-;TREZIGUET;Midfield
+Egypt;22;AMR;WARDA;Forward
+Egypt;23;MOHAMED;ELSHENAWY;Goalkeeper
+England;1;Jordan;PICKFORD;Goalkeeper
+England;2;Kyle;WALKER;Defender
+England;3;Danny;ROSE;Defender
+England;4;Eric; DIER;Midfield
+England;5;John;STONES;Defender
+England;6;Harry;MAGUIRE;Defender
+England;7;Jesse; LINGARD;Midfield
+England;8;Jordan;HENDERSON;Midfield
+England;9;Harry;KANE;Forward
+England;10;Raheem;STERLING;Forward
+England;11;Jamie;VARDY;Forward
+England;12;Kieran;TRIPPIER;Defender
+England;13;Jack;BUTLAND;Goalkeeper
+England;14;Danny;WELBECK;Forward
+England;15;Gary;CAHILL;Defender
+England;16;Phil;JONES;Defender
+England;17;Fabian;DELPH;Defender
+England;18;Ashley; YOUNG;Defender
+England;19;Marcus;RASHFORD;Forward
+England;20;Dele;ALLI;Midfield
+England;21;Ruben;LOFTUS-CHEEK;Midfield
+England;22;Trent;ALEXANDER-ARNOLD;Defender
+England;23;Nick;POPE;Goalkeeper
+France;1;Hugo;LLORIS;Goalkeeper
+France;2;PAVARD;Benjamin;Defender
+France;3;Presnel;KIMPEMBE;Defender
+France;4;Raphael;VARANE;Defender
+France;5;Samuel;UMTITI;Defender
+France;6;Paul;POGBA;Midfield
+France;7;Antoine;GRIEZMANN;Forward
+France;8;Thomas;LEMAR;Forward
+France;9;Olivier;GIROUD;Forward
+France;10;Kylian;MBAPPE;Forward
+France;11;Ousmane;DEMBELE;Forward
+France;12;TOLISSO;Corentin;Midfield
+France;13;Ngolo;KANTE;Midfield
+France;14;Blaise;MATUIDI;Midfield
+France;15;Steven;NZONZI;Midfield
+France;16;Steve;MANDANDA;Goalkeeper
+France;17;Adil;RAMI;Defender
+France;18;Nabil;FEKIR;Forward
+France;19;Djibril;SIDIBE;Defender
+France;20;Florian;THAUVIN;Forward
+France;21;HERNANDEZ;Lucas;Defender
+France;22;Benjamin;MENDY;Defender
+France;23;Alphonse;AREOLA;Goalkeeper
+Germany;1;NEUER;Manuel;Goalkeeper
+Germany;2;Marvin;PLATTENHARDT;Defender
+Germany;3;Jonas;HECTOR;Defender
+Germany;4;Matthias;GINTER;Defender
+Germany;5;Mats;HUMMELS;Defender
+Germany;6;Sami;KHEDIRA;Midfield
+Germany;7;Julian;DRAXLER;Midfield
+Germany;8;Toni;KROOS;Midfield
+Germany;9;Timo;WERNER;Forward
+Germany;10;Mesut;OEZIL;Midfield
+Germany;11;Marco;REUS;Forward
+Germany;12;Kevin;TRAPP;Goalkeeper
+Germany;13;MUELLER;Thomas;Midfield
+Germany;14;GORETZKA;Leon;Midfield
+Germany;15;SUELE;Niklas;Defender
+Germany;16;Antonio;RUEDIGER;Defender
+Germany;17;BOATENG;Jerome;Defender
+Germany;18;KIMMICH;Joshua;Defender
+Germany;19;Sebastian;RUDY;Midfield
+Germany;20;Julian;BRANDT;Midfield
+Germany;21;Ilkay;GUENDOGAN;Midfield
+Germany;22;Marc-Andre;TER STEGEN;Goalkeeper
+Germany;23;Mario;GOMEZ;Forward
+Iceland;1;Hannes;HALLDORSSON;Goalkeeper
+Iceland;2;Birkir;SAEVARSSON;Defender
+Iceland;3;Samuel;FRIDJONSSON;Midfield
+Iceland;4;Albert;GUDMUNDSSON;Midfield
+Iceland;5;Sverrir;INGASON;Defender
+Iceland;6;Ragnar;SIGURDSSON;Defender
+Iceland;7;Johann;GUDMUNDSSON;Midfield
+Iceland;8;Birkir;BJARNASON;Midfield
+Iceland;9;Bjorn;SIGURDARSON;Forward
+Iceland;10;Gylfi;SIGURDSSON;Midfield
+Iceland;11;Alfred;FINNBOGASON;Forward
+Iceland;12;Frederik;SCHRAM;Goalkeeper
+Iceland;13;Runar;RUNARSSON;Goalkeeper
+Iceland;14;Kari;ARNASON;Defender
+Iceland;15;Holmar;EYJOLFSSON;Defender
+Iceland;16;Olafur;SKULASON;Midfield
+Iceland;17;Aron;GUNNARSSON;Midfield
+Iceland;18;Hordur;MAGNUSSON;Defender
+Iceland;19;Rurik;GISLASON;Midfield
+Iceland;20;Emil;HALLFREDSSON;Midfield
+Iceland;21;Arnor;TRAUSTASON;Midfield
+Iceland;22;Jon;BODVARSSON;Forward
+Iceland;23;Ari;SKULASON;Defender
+IR Iran;1;Ali;BEIRANVAND;Goalkeeper
+IR Iran;2;Mahdi;TORABI;Midfield
+IR Iran;3;Ehsan;HAJI SAFI;Defender
+IR Iran;4;Roozbeh;CHESHMI;Defender
+IR Iran;5;Milad;MOHAMMADI;Defender
+IR Iran;6;Saeid;EZATOLAHI;Midfield
+IR Iran;7;Masoud;SHOJAEI;Midfield
+IR Iran;8;Morteza;POURALIGANJI;Defender
+IR Iran;9;Omid;EBRAHIMI;Midfield
+IR Iran;10;Karim;ANSARIFARD;Forward
+IR Iran;11;Vahid;AMIRI;Midfield
+IR Iran;12;Rashid;MAZAHERI;Goalkeeper
+IR Iran;13;Mohammad;Reza KHANZADEH;Defender
+IR Iran;14;Saman;GHODDOS;Forward
+IR Iran;15;Pejman;MONTAZERI;Defender
+IR Iran;16;Reza;GHOOCHANNEJHAD;Forward
+IR Iran;17;Mehdi;TAREMI;Forward
+IR Iran;18;Alireza;JAHANBAKHSH;Forward
+IR Iran;19;Majid;HOSSEINI;Defender
+IR Iran;20;Sardar;AZMOUN;Forward
+IR Iran;21;Ashkan;DEJAGAH;Forward
+IR Iran;22;Amir;ABEDZADEH;Goalkeeper
+IR Iran;23;Ramin;REZAEIAN;Defender
+Japan;1;Eiji;KAWASHIMA;Goalkeeper
+Japan;2;Naomichi;UEDA;Defender
+Japan;3;Gen;SHOJI;Defender
+Japan;4;Keisuke;HONDA;Midfield
+Japan;5;Yuto;NAGATOMO;Defender
+Japan;6;Wataru;ENDO;Defender
+Japan;7;Gaku;SHIBASAKI;Midfield
+Japan;8;Genki;HARAGUCHI;Midfield
+Japan;9;Shinji;OKAZAKI;Forward
+Japan;10;Shinji;KAGAWA;Midfield
+Japan;11;Takashi;USAMI;Midfield
+Japan;12;Masaaki;HIGASHIGUCHI;Goalkeeper
+Japan;13;Yoshinori;MUTO;Forward
+Japan;14;Takashi;INUI;Midfield
+Japan;15;Yuya;OSAKO;Forward
+Japan;16;Hotaru;YAMAGUCHI;Midfield
+Japan;17;Makoto;HASEBE;Midfield
+Japan;18;Ryota;OHSHIMA;Midfield
+Japan;19;Hiroki;SAKAI;Defender
+Japan;20;Tomoaki;MAKINO;Defender
+Japan;21;Gotoku;SAKAI;Defender
+Japan;22;Maya;YOSHIDA;Defender
+Japan;23;Kosuke;NAKAMURA;Goalkeeper
+Korea Republic;1;KIM;Seunggyu;Goalkeeper
+Korea Republic;2;LEE;Yong;Defender
+Korea Republic;3;JUNG;Seunghyun;Defender
+Korea Republic;4;OH;Bansuk;Defender
+Korea Republic;5;YUN;Youngsun;Defender
+Korea Republic;6;PARK;Jooho;Defender
+Korea Republic;7;SON;Heungmin;Forward
+Korea Republic;8;JU;Sejong;Midfield
+Korea Republic;9;KIM;Shinwook;Forward
+Korea Republic;10;LEE;Seungwoo;Midfield
+Korea Republic;11;HWANG;Heechan;Forward
+Korea Republic;12;KIM;Minwoo;Defender
+Korea Republic;13;KOO;Jacheol;Midfield
+Korea Republic;14;HONG;Chul;Defender
+Korea Republic;15;JUNG;Wooyoung;Midfield
+Korea Republic;16;KI;Sungyueng;Midfield
+Korea Republic;17;LEE;Jaesung;Midfield
+Korea Republic;18;MOON;Seonmin;Midfield
+Korea Republic;19;KIM;Younggwon;Defender
+Korea Republic;20;JANG;Hyunsoo;Defender
+Korea Republic;21;KIM;Jinhyeon;Goalkeeper
+Korea Republic;22;GO;Yohan;Defender
+Korea Republic;23;JO;Hyeonwoo;Goalkeeper
+Mexico;1;Jose;CORONA;Goalkeeper
+Mexico;2;AYALA;Hugo;Defender
+Mexico;3;SALCEDO;Carlos;Defender
+Mexico;4;Rafael;MARQUEZ;Defender
+Mexico;5;Erick;GUTIERREZ;Midfield
+Mexico;6;Jonathan;DOS SANTOS;Midfield
+Mexico;7;Miguel;LAYUN;Midfield
+Mexico;8;Marco;FABIAN;Forward
+Mexico;9;Raul;JIMENEZ;Forward
+Mexico;10;Giovani;DOS SANTOS;Midfield
+Mexico;11;Carlos;VELA;Forward
+Mexico;12;Alfredo;TALAVERA;Goalkeeper
+Mexico;13;Guillermo;OCHOA;Goalkeeper
+Mexico;14;Javier;HERNANDEZ;Forward
+Mexico;15;Hector;MORENO;Defender
+Mexico;16;Hector;HERRERA;Defender
+Mexico;17;Jesus;CORONA;Midfield
+Mexico;18;Andres;GUARDADO;Midfield
+Mexico;19;Oribe;PERALTA;Forward
+Mexico;20;AQUINO;Javier;Midfield
+Mexico;21;Edson;ALVAREZ;Defender
+Mexico;22;Hirving; LOZANO;Forward
+Mexico;23;Jesus;GALLARDO;Midfield
+Morocco;1;Yassine;BOUNOU;Goalkeeper
+Morocco;2;Achraf;HAKIMI;Defender
+Morocco;3;Hamza;MENDYL;Defender
+Morocco;4;Manuel;DA COSTA;Defender
+Morocco;5;BENATIA;Mehdi;Defender
+Morocco;6;Ghanem;SAISS;Defender
+Morocco;7;Hakim;ZIYACH;Midfield
+Morocco;8;Karim;EL AHMADI;Midfield
+Morocco;9;Ayoub;EL KAABI;Forward
+Morocco;10;Younes;BELHANDA;Midfield
+Morocco;11;Faycal;FAJR;Midfield
+Morocco;12;Monir;EL KAJOUI;Goalkeeper
+Morocco;13;Khalid;BOUTAIB;Forward
+Morocco;14;Mbark;BOUSSOUFA;Midfield
+Morocco;15;Youssef;AIT BENNASSER;Midfield
+Morocco;16;Noureddine;AMRABAT;Midfield
+Morocco;17;Nabil;DIRAR;Defender
+Morocco;18;Amine;HARIT;Midfield
+Morocco;19;Youssef;EN NESYRI;Forward
+Morocco;20;Aziz;BOUHADDOUZ;Forward
+Morocco;21;Sofyan;AMRABAT;Midfield
+Morocco;22;Ahmed;TAGNAOUTI;Goalkeeper
+Morocco;23;Mehdi;CARCELA;Midfield
+Nigeria;1;Ikechukwu;EZENWA;Goalkeeper
+Nigeria;2;Bryan;IDOWU;Defender
+Nigeria;3;Elderson;ECHIEJILE;Defender
+Nigeria;4;Wilfred;NDIDI;Midfield
+Nigeria;5;William;EKONG;Defender
+Nigeria;6;Leon;BALOGUN;Defender
+Nigeria;7;Ahmed;MUSA;Forward
+Nigeria;8;Oghenekaro;ETEBO;Midfield
+Nigeria;9;Odion;IGHALO;Forward
+Nigeria;10;John;Obi MIKEL;Midfield
+Nigeria;11;Victor;MOSES;Forward
+Nigeria;12;Abdullahi;SHEHU;Defender
+Nigeria;13;Simeon;NWANKWO;Forward
+Nigeria;14;Kelechi;IHEANACHO;Forward
+Nigeria;15;Joel;OBI;Midfield
+Nigeria;16;Daniel;AKPEYI;Goalkeeper
+Nigeria;17;Ogenyi;ONAZI;Midfield
+Nigeria;18;Alex;IWOBI;Forward
+Nigeria;19;John;OGU;Midfield
+Nigeria;20;Chidozie;AWAZIEM;Defender
+Nigeria;21;Tyronne;EBUEHI;Defender
+Nigeria;22;Kenneth;OMERUO;Defender
+Nigeria;23;Francis;UZOHO;Goalkeeper
+Panama;1;Jaime;PENEDO;Goalkeeper
+Panama;2;Michael;MURILLO;Defender
+Panama;3;Harold;CUMMINGS;Defender
+Panama;4;Fidel;ESCOBAR;Defender
+Panama;5;Roman;TORRES;Defender
+Panama;6;Gabriel;GOMEZ;Midfield
+Panama;7;Blas;PEREZ;Forward
+Panama;8;Edgar;BARCENAS;Midfield
+Panama;9;Gabriel;TORRES;Forward
+Panama;10;Ismael;DIAZ;Forward
+Panama;11;Armando;COOPER;Midfield
+Panama;12;Jose;CALDERON;Goalkeeper
+Panama;13;Adolfo;MACHADO;Defender
+Panama;14;Valentin;PIMENTEL;Midfield
+Panama;15;Eric;DAVIS;Defender
+Panama;16;Abdiel;ARROYO;Forward
+Panama;17;Luis;OVALLE;Defender
+Panama;18;Luis;TEJADA;Forward
+Panama;19;Ricardo;AVILA;Midfield
+Panama;20;Anibal;GODOY;Midfield
+Panama;21;Jose;Luis RODRIGUEZ;Midfield
+Panama;22;Alex;RODRIGUEZ;Goalkeeper
+Panama;23;Felipe;BALOY;Defender
+Peru;1;Pedro;GALLESE;Goalkeeper
+Peru;2;Alberto;RODRIGUEZ;Defender
+Peru;3;Aldo;CORZO;Defender
+Peru;4;Anderson;SANTAMARIA;Defender
+Peru;5;Miguel;ARAUJO;Defender
+Peru;6;Miguel;TRAUCO;Defender
+Peru;7;Paolo;HURTADO;Midfield
+Peru;8;Christian;CUEVA;Midfield
+Peru;9;Paolo;GUERRERO;Forward
+Peru;10;Jefferson;FARFAN;Forward
+Peru;11;Raul;RUIDIAZ;Forward
+Peru;12;Carlos;CACEDA;Goalkeeper
+Peru;13;Renato;TAPIA;Midfield
+Peru;14;Andy;POLO;Midfield
+Peru;15;Christian;RAMOS;Defender
+Peru;16;Wilder;CARTAGENA;Midfield
+Peru;17;Luis;ADVINCULA;Defender
+Peru;18;Andre;CARRILLO;Forward
+Peru;19;Yoshimar;YOTUN;Midfield
+Peru;20;Edison;FLORES;Forward
+Peru;21;Jose;CARVALLO;Goalkeeper
+Peru;22;Nilson;LOYOLA;Defender
+Peru;23;Pedro;AQUINO;Midfield
+Poland;1;Wojciech;SZCZESNY;Goalkeeper
+Poland;2;Michal;PAZDAN;Defender
+Poland;3;Artur;JEDRZEJCZYK;Defender
+Poland;4;Thiago;CIONEK;Defender
+Poland;5;Jan;BEDNAREK;Defender
+Poland;6;Jacek;GORALSKI;Midfield
+Poland;7;Arkadiusz;MILIK;Forward
+Poland;8;Karol;LINETTY;Midfield
+Poland;9;LEWANDOWSKI;Robert;Forward
+Poland;10;Grzegorz;KRYCHOWIAK;Midfield
+Poland;11;Kamil;GROSICKI;Midfield
+Poland;12;Bartosz;BIALKOWSKI;Goalkeeper
+Poland;13;Maciej;RYBUS;Midfield
+Poland;14;Lukasz;TEODORCZYK;Forward
+Poland;15;Kamil;GLIK;Defender
+Poland;16;Jakub;BLASZCZYKOWSKI;Midfield
+Poland;17;Slawomir;PESZKO;Midfield
+Poland;18;Bartosz;BERESZYNSKI;Defender
+Poland;19;Piotr;ZIELINSKI;Midfield
+Poland;20;Lukasz;PISZCZEK;Defender
+Poland;21;Rafal;KURZAWA;Midfield
+Poland;22;Lukasz;FABIANSKI;Goalkeeper
+Poland;23;Dawid;KOWNACKI;Forward
+Portugal;1;RUI;PATRICIO;Goalkeeper
+Portugal;2;BRUNO;ALVES;Defender
+Portugal;3;-;PEPE;Defender
+Portugal;4;MANUEL;FERNANDES;Midfield
+Portugal;5;RAPHAEL;GUERREIRO;Defender
+Portugal;6;JOSE;FONTE;Defender
+Portugal;7;CRISTIANO;RONALDO;Forward
+Portugal;8;JOAO;MOUTINHO;Midfield
+Portugal;9;ANDRE;SILVA;Forward
+Portugal;10;JOAO;MARIO;Midfield
+Portugal;11;BERNARDO;SILVA;Midfield
+Portugal;12;ANTHONY;LOPES;Goalkeeper
+Portugal;13;RUBEN;DIAS;Defender
+Portugal;14;-;WILLIAM;Midfield
+Portugal;15;-;RICARDO;Defender
+Portugal;16;BRUNO;FERNANDES;Midfield
+Portugal;17;GONCALO;GUEDES;Forward
+Portugal;18;GELSON;MARTINS;Forward
+Portugal;19;MARIO;RUI;Defender
+Portugal;20;RICARDO;QUARESMA;Forward
+Portugal;21;-;CEDRIC;Defender
+Portugal;22;-;BETO;Goalkeeper
+Portugal;23;ADRIEN;SILVA;Midfield
+Russia;1;Igor;AKINFEEV;Goalkeeper
+Russia;2;MARIO;FERNANDES;Defender
+Russia;3;Ilya;KUTEPOV;Defender
+Russia;4;Sergey;IGNASHEVICH;Defender
+Russia;5;Andrey;SEMENOV;Defender
+Russia;6;Denis;CHERYSHEV;Midfield
+Russia;7;Daler;KUZIAEV;Midfield
+Russia;8;Iury;GAZINSKY;Midfield
+Russia;9;Alan;DZAGOEV;Midfield
+Russia;10;Fedor;SMOLOV;Forward
+Russia;11;Roman;ZOBNIN;Midfield
+Russia;12;Andrei;LUNEV;Goalkeeper
+Russia;13;Fedor;KUDRIASHOV;Defender
+Russia;14;Vladimir;GRANAT;Defender
+Russia;15;Alexey;MIRANCHUK;Midfield
+Russia;16;Anton;MIRANCHUK;Midfield
+Russia;17;Aleksandr;GOLOVIN;Midfield
+Russia;18;Yury;ZHIRKOV;Midfield
+Russia;19;Alexander;SAMEDOV;Midfield
+Russia;20;Vladimir;GABULOV;Goalkeeper
+Russia;21;Aleksandr;EROKHIN;Midfield
+Russia;22;Artem;DZYUBA;Forward
+Russia;23;Igor;SMOLNIKOV;Defender
+Saudi Arabia;1;Abdullah;Al-Mayouf;Goalkeeper
+Saudi Arabia;2;MANSOUR;ALHARBI;Defender
+Saudi Arabia;3;OSAMA;HAWSAWI;Defender
+Saudi Arabia;4;ALI;ALBULAYHI;Defender
+Saudi Arabia;5;OMAR;HAWSAWI;Defender
+Saudi Arabia;6;MOHAMMED;ALBURAYK;Defender
+Saudi Arabia;7;SALMAN;ALFARAJ;Midfield
+Saudi Arabia;8;YAHIA;ALSHEHRI;Midfield
+Saudi Arabia;9;HATAN;BAHBRI;Midfield
+Saudi Arabia;10;MOHAMMED;ALSAHLAWI;Forward
+Saudi Arabia;11;ABDULMALEK;ALKHAIBRI;Midfield
+Saudi Arabia;12;MOHAMED;KANNO;Midfield
+Saudi Arabia;13;YASSER;ALSHAHRANI;Defender
+Saudi Arabia;14;ABDULLAH;OTAYF;Midfield
+Saudi Arabia;15;ABDULLAH;ALKHAIBARI;Midfield
+Saudi Arabia;16;HUSSAIN;ALMOQAHWI;Midfield
+Saudi Arabia;17;TAISEER;ALJASSAM;Midfield
+Saudi Arabia;18;SALEM;ALDAWSARI;Midfield
+Saudi Arabia;19;FAHAD;ALMUWALLAD;Forward
+Saudi Arabia;20;MUHANNAD;ASIRI;Forward
+Saudi Arabia;21;YASSER;ALMOSAILEM;Goalkeeper
+Saudi Arabia;22;MOHAMMED;ALOWAIS;Goalkeeper
+Saudi Arabia;23;MOTAZ;HAWSAWI;Defender
+Senegal;1;Abdoulaye;DIALLO;Goalkeeper
+Senegal;2;Adama;MBENGUE;Defender
+Senegal;3;Kalidou;KOULIBALY;Defender
+Senegal;4;Kara;MBODJI;Defender
+Senegal;5;Idrissa;Gana GUEYE;Midfield
+Senegal;6;Salif;SANE;Midfield
+Senegal;7;Moussa;SOW;Forward
+Senegal;8;Cheikhou;KOUYATE;Midfield
+Senegal;9;Mame;DIOUF;Forward
+Senegal;10;Sadio;MANE;Forward
+Senegal;11;Cheikh;NDOYE;Midfield
+Senegal;12;Youssouf;SABALY;Defender
+Senegal;13;Alfred;NDIAYE;Midfield
+Senegal;14;Moussa;KONATE;Forward
+Senegal;15;Diafra;SAKHO;Forward
+Senegal;16;Khadim;NDIAYE;Goalkeeper
+Senegal;17;Pape;Alioune NDIAYE;Midfield
+Senegal;18;Ismaila;SARR;Forward
+Senegal;19;Mbaye;NIANG;Forward
+Senegal;20;Keita;BALDE;Forward
+Senegal;21;Lamine;GASSAMA;Defender
+Senegal;22;Moussa;WAGUE;Defender
+Senegal;23;Alfred;GOMIS;Goalkeeper
+Serbia;1;Vladimir;STOJKOVIC;Goalkeeper
+Serbia;2;Antonio;RUKAVINA;Defender
+Serbia;3;Dusko;TOSIC;Defender
+Serbia;4;Luka;MILIVOJEVIC;Midfield
+Serbia;5;Uros;SPAJIC;Defender
+Serbia;6;Branislav;IVANOVIC;Defender
+Serbia;7;Andrija;ZIVKOVIC;Midfield
+Serbia;8;Aleksandar;PRIJOVIC;Forward
+Serbia;9;Aleksandar;MITROVIC;Forward
+Serbia;10;Dusan;TADIC;Midfield
+Serbia;11;Aleksandar;KOLAROV;Defender
+Serbia;12;Predrag;RAJKOVIC;Goalkeeper
+Serbia;13;Milos;VELJKOVIC;Defender
+Serbia;14;Milan;RODIC;Defender
+Serbia;15;Nikola;MILENKOVIC;Defender
+Serbia;16;Marko;GRUJIC;Midfield
+Serbia;17;Filip;KOSTIC;Midfield
+Serbia;18;Nemanja;RADONJIC;Forward
+Serbia;19;Luka;JOVIC;Forward
+Serbia;20;Sergej;MILINKOVIC-SAVIC;Midfield
+Serbia;21;Nemanja;MATIC;Midfield
+Serbia;22;Adem;LJAJIC;Midfield
+Serbia;23;Marko;DMITROVIC;Goalkeeper
+Spain;1;David;DE GEA;Goalkeeper
+Spain;2;Dani;CARVAJAL;Defender
+Spain;3;Gerard;PIQUE;Defender
+Spain;4;-;NACHO;Defender
+Spain;5;Sergio;BUSQUETS;Midfield
+Spain;6;Andres;INIESTA;Midfield
+Spain;7;-;SAUL;Midfield
+Spain;8;-;KOKE;Midfield
+Spain;9;-;RODRIGO;Forward
+Spain;10;Thiago;Alcântara;Midfield
+Spain;11;Lucas;VAZQUEZ;Forward
+Spain;12;Alvaro;ODRIOZOLA;Defender
+Spain;13;Kepa;ARRIZABALAGA;Goalkeeper
+Spain;14;Cesar;AZPILICUETA;Defender
+Spain;15;Sergio;RAMOS;Defender
+Spain;16;Nacho;MONREAL;Defender
+Spain;17;Iago;ASPAS;Forward
+Spain;18;Jordi;ALBA;Defender
+Spain;19;Diego;COSTA;Forward
+Spain;20;Marco;ASENSIO;Midfield
+Spain;21;David;SILVA;Forward
+Spain;22;-;ISCO;Midfield
+Spain;23;Pepe;REINA;Goalkeeper
+Sweden;1;Robin;OLSEN;Goalkeeper
+Sweden;2;Mikael;LUSTIG;Defender
+Sweden;3;Victor;LINDELOF;Defender
+Sweden;4;Andreas;GRANQVIST;Defender
+Sweden;5;Martin;OLSSON;Defender
+Sweden;6;Ludwig;AUGUSTINSSON;Defender
+Sweden;7;Sebastian;LARSSON;Midfield
+Sweden;8;Albin;EKDAL;Midfield
+Sweden;9;Marcus;BERG;Forward
+Sweden;10;Emil;FORSBERG;Midfield
+Sweden;11;John;GUIDETTI;Forward
+Sweden;12;Karl-Johan;JOHNSSON;Goalkeeper
+Sweden;13;Gustav;SVENSSON;Midfield
+Sweden;14;Filip;HELANDER;Defender
+Sweden;15;Oscar;HILJEMARK;Midfield
+Sweden;16;Emil;KRAFTH;Defender
+Sweden;17;Viktor;CLAESSON;Midfield
+Sweden;18;Pontus;JANSSON;Defender
+Sweden;19;Marcus;ROHDEN;Midfield
+Sweden;20;Ola;TOIVONEN;Forward
+Sweden;21;Jimmy;DURMAZ;Midfield
+Sweden;22;Isaac;Kiese THELIN;Forward
+Sweden;23;Kristoffer;NORDFELDT;Goalkeeper
+Switzerland;1;Yann;SOMMER;Goalkeeper
+Switzerland;2;Stephan;LICHTSTEINER;Defender
+Switzerland;3;Francois;MOUBANDJE;Defender
+Switzerland;4;Nico;ELVEDI;Defender
+Switzerland;5;Manuel;AKANJI;Defender
+Switzerland;6;Michael;LANG;Defender
+Switzerland;7;Breel;EMBOLO;Forward
+Switzerland;8;Remo;FREULER;Midfield
+Switzerland;9;Haris;SEFEROVIC;Forward
+Switzerland;10;Granit;XHAKA;Midfield
+Switzerland;11;Valon;BEHRAMI;Midfield
+Switzerland;12;Yvon;MVOGO;Goalkeeper
+Switzerland;13;Ricardo;RODRIGUEZ;Defender
+Switzerland;14;Steven;ZUBER;Midfield
+Switzerland;15;Blerim;DZEMAILI;Midfield
+Switzerland;16;Gelson;FERNANDES;Midfield
+Switzerland;17;Denis;ZAKARIA;Midfield
+Switzerland;18;Mario;GAVRANOVIC;Forward
+Switzerland;19;Josip;DRMIC;Forward
+Switzerland;20;Johan;DJOUROU;Defender
+Switzerland;21;Roman;BUERKI;Goalkeeper
+Switzerland;22;Fabian;SCHAER;Defender
+Switzerland;23;Xherdan;SHAQIRI;Midfield
+Tunisia;1;Farouk;BEN MUSTAPHA;Goalkeeper
+Tunisia;2;Syam;BEN YOUSSEF;Defender
+Tunisia;3;Yohan;BEN ALOUANE;Defender
+Tunisia;4;Yassine;MERIAH;Defender
+Tunisia;5;Oussama;HADDADI;Defender
+Tunisia;6;Rami;BEDOUI;Defender
+Tunisia;7;Saifeddine;KHAOUI;Forward
+Tunisia;8;Fakhreddine;BEN YOUSSEF;Forward
+Tunisia;9;Anice;BADRI;Midfield
+Tunisia;10;Wahbi;KHAZRI;Forward
+Tunisia;11;Dylan;BRONN;Defender
+Tunisia;12;MAALOUL;Ali;Defender
+Tunisia;13;Ferjani;SASSI;Midfield
+Tunisia;14;Mohamed;BEN AMOR;Midfield
+Tunisia;15;Ahmed;KHALIL;Forward
+Tunisia;16;Aymen;MATHLOUTHI;Goalkeeper
+Tunisia;17;Ellyes;SKHIRI;Midfield
+Tunisia;18;Bassem;SRARFI;Forward
+Tunisia;19;Saber;KHALIFA;Forward
+Tunisia;20;Ghaylen;CHAALELI;Forward
+Tunisia;21;Hamdi;NAGUEZ;Defender
+Tunisia;22;Mouez;HASSEN;Goalkeeper
+Tunisia;23;Naim;SLITI;Forward
+Uruguay;1;Fernando;MUSLERA;Goalkeeper
+Uruguay;2;Jose;GIMENEZ;Defender
+Uruguay;3;Diego;GODIN;Defender
+Uruguay;4;Guillermo;VARELA;Defender
+Uruguay;5;Carlos;SANCHEZ;Midfield
+Uruguay;6;Rodrigo;BENTANCUR;Midfield
+Uruguay;7;Cristian;RODRIGUEZ;Midfield
+Uruguay;8;Nahitan;NANDEZ;Midfield
+Uruguay;9;Luis;SUAREZ;Forward
+Uruguay;10;Giorgian;DE ARRASCAETA;Forward
+Uruguay;11;Cristhian;STUANI;Forward
+Uruguay;12;Martin;CAMPANA;Goalkeeper
+Uruguay;13;Gaston;SILVA;Defender
+Uruguay;14;Lucas;TORREIRA;Midfield
+Uruguay;15;Matias;VECINO;Midfield
+Uruguay;16;Maximiliano;PEREIRA;Defender
+Uruguay;17;Diego;LAXALT;Midfield
+Uruguay;18;Maximiliano;GOMEZ;Forward
+Uruguay;19;Sebastian;COATES;Defender
+Uruguay;20;Jonathan;URRETAVISCAYA;Forward
+Uruguay;21;Edinson;CAVANI;Forward
+Uruguay;22;Martin;CACERES;Defender
+Uruguay;23;Martin;SILVA;Goalkeeper
