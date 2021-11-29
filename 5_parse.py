@@ -5,29 +5,48 @@ import pandas as pd
 URL = "https://www.fifa.com/tournaments/mens/worldcup/2018russia/teams/"
 
 
+class Fifa:
+
+    @staticmethod
+    def get_all_teams():
+        page_teams = requests.get(URL)
+        soup_teams = BeautifulSoup(page_teams.content, "html.parser")
+        info_teams = soup_teams.find_all("div", "col-6 col-lg-3")
+
+        all_teams = {}
+        for team in info_teams:
+            id_team = team.find("a").get("href").split("/")[1]
+            name_team = team.find("div", {"class": "ff-display-card_displayCardTeam__12mcx"}).text
+            all_teams.update({id_team: name_team})
+
+        return all_teams
+
+
 class NationalTeam:
 
     def __init__(self, id_team, country):
         self.id = id_team
         self.country = country
+
+    def create_players(self):
         self.page = requests.get(URL + self.id)
         self.soup = BeautifulSoup(self.page.content, "html.parser")
         self.all_data_players = self.soup.find_all("div", "fp-squad-player-card_playerDetails__2k2Nc")
 
-    def create_players(self):
         self.all_players = []
-
         for player in self.all_data_players:
             number_player = player.find("div", {"class": "fp-squad-player-card_jerseyNumber__1zPwG"}).text
 
-            try:
-                first_name_player = player.find("div", {"class": "fp-squad-player-card_firstName__1UtW_"}).text
-            except:
+            div_first_name_player = player.find("div", {"class": "fp-squad-player-card_firstName__1UtW_"})
+            if div_first_name_player != None:
+                first_name_player = div_first_name_player.text
+            else:
                 first_name_player = "-"
 
-            try:
-                last_name_player = player.find("div", {"class": "fp-squad-player-card_lastName__3KJvd"}).text
-            except:
+            div_last_name_player = player.find("div", {"class": "fp-squad-player-card_lastName__3KJvd"})
+            if div_last_name_player != None:
+                last_name_player = div_last_name_player.text
+            else:
                 last_name_player = player.find("span", {"class": "fp-squad-player-card_lastName__3KJvd"}).text
 
             position_player = player.find("div", {"class": "fp-squad-player-card_position__17FyP"}).text
@@ -36,20 +55,7 @@ class NationalTeam:
             new_player = Player(country_player, number_player, first_name_player, last_name_player, position_player)
             self.all_players.append(new_player)
 
-    def get_data_team(self):
-
-        self.team_country = []
-        self.team_numbers = []
-        self.team_first_names = []
-        self.team_last_names = []
-        self.team_positions = []
-
-        for player in self.all_players:
-            self.team_country.append(player.country)
-            self.team_numbers.append(player.number)
-            self.team_first_names.append(player.first_name)
-            self.team_last_names.append(player.last_name)
-            self.team_positions.append(player.position)
+        return self.all_players
 
 
 class Player:
@@ -61,48 +67,48 @@ class Player:
         self.last_name = last_name
         self.position = position
 
+class OutputData:
 
-def get_all_teams():
-    page_teams = requests.get(URL)
-    soup_teams = BeautifulSoup(page_teams.content, "html.parser")
-    info_teams = soup_teams.find_all("div", "col-6 col-lg-3")
-
-    all_teams = {}
-    for team in info_teams:
-        id_team = team.find("a").get("href").split("/")[1]
-        name_team = team.find("div", {"class": "ff-display-card_displayCardTeam__12mcx"}).text
-        all_teams.update({id_team: name_team})
-
-    return all_teams
+    @staticmethod
+    def data_to_csv(countries, numbers, first_names, last_names, positions):
+        df = pd.DataFrame(
+        {
+        'country': countries,
+        'number': numbers,
+        'first_name': first_names,
+        'last_name': last_names,
+        'position': positions,
+        }
+    )
+        df.to_csv('players_info.csv', mode='a', index=False, sep=';')
 
 
 def main():
-    data_teams = get_all_teams()
-    header_csv = True
+    teams_countries = []
+    teams_numbers = []
+    teams_first_names = []
+    teams_last_names = []
+    teams_positions = []
 
-    for new_id, new_name in data_teams.items():
+    fifa = Fifa()
+    fifa_teams = fifa.get_all_teams()
+
+    for new_id, new_name in fifa_teams.items():
         print(f'id: {new_id}; team: {new_name}', end='...')
         new_team = NationalTeam(new_id, new_name)
-        new_team.create_players()
-        new_team.get_data_team()
+        all_players_team = new_team.create_players()
 
-        df = pd.DataFrame(
-            {
-            'country': new_team.team_country,
-            'number': new_team.team_numbers,
-            'first_name': new_team.team_first_names,
-            'last_name': new_team.team_last_names,
-            'position': new_team.team_positions,
-            }
-        )
+        for player in all_players_team:
+            teams_countries.append(player.country)
+            teams_numbers.append(player.number)
+            teams_first_names.append(player.first_name)
+            teams_last_names.append(player.last_name)
+            teams_positions.append(player.position)
 
-        df.to_csv('players_info.csv', mode='a', index=False, header=header_csv, sep=';')
         print('OK')
-        header_csv = False
+
+    OutputData().data_to_csv(teams_countries, teams_numbers, teams_first_names, teams_last_names, teams_positions)
 
 
-main()
-
-
-if '__name__' == '__main__':
+if __name__ == '__main__':
     main()
